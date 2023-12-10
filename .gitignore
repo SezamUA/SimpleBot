@@ -3,7 +3,11 @@
 
 # gradle
 .gradle/
+.gradle/*
 build
+gradle
+*.gradle
+*.bat
 
 
 # idea config
